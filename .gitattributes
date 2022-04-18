@@ -2,3 +2,6 @@
 AutoDuck/*.fmt          text eol=crlf
 *.dsp                   text eol=crlf
 *.dsw                   text eol=crlf
+
+# Binary files git may not auto-detect.
+win32/test/*.cer        binary

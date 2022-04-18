@@ -2543,6 +2543,7 @@ dist = setup(
             "win32/license.txt",
             "win32/scripts/*.py",
             "win32/test/*.py",
+            "win32/test/*.cer", # win32crypt test certificates.
             "win32/test/win32rcparser/test.rc",
             "win32/test/win32rcparser/test.h",
             "win32/test/win32rcparser/python.ico",
